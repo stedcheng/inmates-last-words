@@ -1,4 +1,4 @@
-<h1>Rage, Regret, and Repentance: A Psycho-linguistic Analysis of Inmates’ Last Statements</h1>
+<h1>Rage, Regret, and Repentance: A Psycho-linguistic Analysis of Inmates' Last Statements</h1>
 
 <h2>Abstract</h2>
 <h3>Introduction and Literature Review</h3>
