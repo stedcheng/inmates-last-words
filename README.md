@@ -17,6 +17,7 @@ When analyzing convicts, they are usually viewed as detached from their context 
 <ul>
   <li><code>Report.pdf</code>: Main text of the report.</li>
   <li><code>Appendix.pdf</code>: Contains the references and sample texts.</li>
+  <li><code>Slide Deck.pdf</code>: Slide deck used to present the research.</li>
   <li><code>cluster_texas.R</code>: Codes used to generate clusters and top words for the entire dataset.</li>
   <li><code>cluster_race.R</code>: Codes used to generate clusters and top words for each race.</li>
   <li><code>cluster_education.R</code>: Codes used to generate clusters and top words for each education level.</li>
