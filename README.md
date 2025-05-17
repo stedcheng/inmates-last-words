@@ -21,7 +21,7 @@ When analyzing convicts, they are usually viewed as detached from their context 
   <li><code>cluster_texas.R</code>: Codes used to generate clusters and top words for the entire dataset.</li>
   <li><code>cluster_race.R</code>: Codes used to generate clusters and top words for each race.</li>
   <li><code>cluster_education.R</code>: Codes used to generate clusters and top words for each education level.</li>
-  <li><code>Texas Inmates 2024.csv</code>: Dataset of inmates' last words, retrieved from <a href="https://www.tdcj.texas.gov/death_row/dr_executed_offenders.html">TDCJ</a> and <a href="https://www.kaggle.com/datasets/mykhe1097/last-words-of-death-row-inmates/data">Kaggle</a> </ul>
+  <li><code>Texas Inmates 2024.csv</code>: Dataset of inmates' last words, retrieved from <a href="https://www.tdcj.texas.gov/death_row/dr_executed_offenders.html">TDCJ</a> and <a href="https://www.kaggle.com/datasets/mykhe1097/last-words-of-death-row-inmates/data">Kaggle</a>.</ul>
 
 <h2>Credits</h2>
 This project was created by Aldie Alejandro, Sted Cheng, and Robert Leung, and submitted as a requirement for the course <b>PSYC 80.18i: Data Analytics for Text Analysis</b> taken in the first semester of AY 2024-2025 in Ateneo de Manila University. 
